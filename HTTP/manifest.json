@@ -7,7 +7,7 @@
   },
   "description": "This module exposes actions to request HTTP resources",
   "name": "HTTP",
-  "uuid": "5894985f-91eb-46db-9306-cc5ac6463d3d",
+  "uuid": "b9bb2b3b-3f96-406f-bcc0-824f25ad5544",
   "slug": "http",
   "version": "1.119.1",
   "categories": [
